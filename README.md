@@ -4,7 +4,7 @@
 Modern pata ecommerce template
 ==============================
 
-Youtube Tutorial : 
+Youtube Tutorial : https://youtu.be/A97FlvHFrYk
 
 Youtube Channel : https://www.youtube.com/channel/UC2Q4oWfoMQzi6AES8Vb2vQw?view_as=subscriber
 
